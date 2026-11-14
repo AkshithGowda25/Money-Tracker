@@ -8,35 +8,10 @@ Designed for seamless deployment on **GitHub Pages**, all financial records and 
 
 ## 🌟 Live Demo & Preview
 
-- **Live Demo Link:** [https://<your-username>.github.io/<your-repo-name>/](https://your-username.github.io/expense-savings-tracker/) *(Replace with your GitHub Pages URL)*
+- **Live Demo Link:** https://akshithgowda25.github.io/Money-Tracker/
 - **Preview / Screenshot:**
+<img width="780" height="912" alt="image" src="https://github.com/user-attachments/assets/d023c35e-dee2-4dae-ac2b-e1499470522e" />
 
-```
-+-----------------------------------------------------------------------------------+
-|  ₹  RupeeTrack                      [ ◀  November 2026  ▶ ]   [Export CSV] [Demo] |
-|-----------------------------------------------------------------------------------|
-|  [ Total Income ]      [ Total Expenses ]      [ Net Balance ]    [ Savings Rate] |
-|     ₹73,500                ₹11,449                +₹62,051             84%        |
-|-----------------------------------------------------------------------------------|
-|  PAYMENT METHODS:  [⚡ SBI (UPI)]  [💳 HDFC (Debit Card)]  [+ Add Account]        |
-|-----------------------------------------------------------------------------------|
-|  [ ADD TRANSACTION ]                    |  [ VISUAL INSIGHTS ]                    |
-|  (•) Expense  ( ) Income                |  🍩 Expenses by Category (Doughnut)     |
-|  Amount (₹): [ 1,450.00 ]               |  📊 6-Month Income vs Expense (Bar)     |
-|  Bank: [ SBI (UPI)    ▼ ]               |-----------------------------------------|
-|  Category: [ Food 🍔  ▼ ]               |  [ SAVINGS GOALS ]                      |
-|  Date: [ 2026-11-14 ]                   |  🎯 MacBook Pro: 63% [=====      ]      |
-|  Note: [ Dinner with friends ]          |     ₹75,000 / ₹1,20,000   [+ Add ₹]     |
-|  [ + Add Transaction ]                  |  🎯 Goa Trip: 74%    [=======    ]      |
-|                                         |     ₹18,500 / ₹25,000     [+ Add ₹]     |
-|-----------------------------------------|                                         |
-|  [ RECENT TRANSACTIONS ]                |                                         |
-|  🍔 Food   • SBI (UPI)   -₹1,450 [x]    |                                         |
-|  ✈️ Travel • SBI (UPI)     -₹850 [x]    |                                         |
-+-----------------------------------------------------------------------------------+
-```
-
----
 
 ## ✨ Features
 
